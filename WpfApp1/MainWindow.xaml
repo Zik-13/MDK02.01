@@ -25,8 +25,8 @@
         <Label Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Content="Результат:" HorizontalAlignment="Center" FontSize="30"/>
         <TextBlock Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Text="none" HorizontalAlignment="Center" FontSize="30" Name="result"/>
         <Button Grid.Row="2" Grid.Column="2" Click="Button_Click_1" Content="Обновить страницу" FontSize="25"/>
-        <TextBox Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Text="1" HorizontalAlignment="Center" FontSize="30"/>
-        <TextBox Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Text="2" HorizontalAlignment="Center" FontSize="30"/>
-        <TextBox Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Text="3" HorizontalAlignment="Center" FontSize="30"/>
+        <TextBox Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Text="1" HorizontalAlignment="Center" FontSize="30" Name="first"/>
+        <TextBox Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Text="2" HorizontalAlignment="Center" FontSize="30" Name="second"/>
+        <TextBox Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Text="3" HorizontalAlignment="Center" FontSize="30" Name="frist"/>
     </Grid>
 </Window>
