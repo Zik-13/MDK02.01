@@ -23,7 +23,7 @@
         <Label Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" Content="3-ая сторона △" HorizontalAlignment="Center" FontSize="30"/>
         <Button Grid.Row="2" Grid.Column="0" Click="Button_Click" Content="Вычеслить" FontSize="30"/>
         <Label Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Content="Результат:" HorizontalAlignment="Center" FontSize="30"/>
-        <TextBlock Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Text="none" HorizontalAlignment="Center" FontSize="30" Name="result"/>
+        <TextBlock Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Text="none" HorizontalAlignment="Center" FontSize="30" Name="result" />
         <Button Grid.Row="2" Grid.Column="2" Click="Button_Click_1" Content="Обновить страницу" FontSize="25"/>
         <TextBox Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Text="1" HorizontalAlignment="Center" FontSize="30" Name="first"/>
         <TextBox Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Text="2" HorizontalAlignment="Center" FontSize="30" Name="second"/>
